@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dungeonomatic, a procedural dungeon generation tool for Unity](https://github.com/DanMcAdam/Dungeonomatic)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DanMcAdam](https://github.com/DanMcAdam)
+- 👨‍💻 You can play the games I developed here [https://brickfrog.itch.io](https://brickfrog.itch.io)
 
 - 📫 How to reach me **DanMcAdam9@gmail.com**
 
